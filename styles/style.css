@@ -142,7 +142,7 @@ body {
 
 .lots__heading {
   margin: 0 0 27px 40px;
-  font-style: Bold;
+  font-weight: bold;
   font-size: 40px;
   text-transform: uppercase;
 }
@@ -190,7 +190,7 @@ body {
   position: relative;
   z-index: 2;
   margin: 0 0 35px;
-  font-style: Bold;
+  font-weight: bold;
   font-size: 22px;
   line-height: 120%;
   text-transform: uppercase;
@@ -203,7 +203,7 @@ body {
   position: relative;
   z-index: 2;
   margin-top: auto;
-  font-style: Regular;
+  font-style: normal;
   font-size: 20px;
   line-height: 120%;
 }
