@@ -157,7 +157,7 @@ body {
 }
 
 .card-link {
-  cursor: pointer;
+  text-decoration: none;
 }
 
 .card {
@@ -192,7 +192,7 @@ body {
   font-size: 22px;
   line-height: 120%;
   text-transform: uppercase;
-  text-underline-offset: 0.15em;
+  text-underline-offset: 0.2em;
   text-decoration: underline;
   text-decoration-thickness: 1px;
 }
